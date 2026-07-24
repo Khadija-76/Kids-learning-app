@@ -1,0 +1,6 @@
+{
+  "name": "TinySteps AI",
+  "description": "A magical AI-powered children's learning application for ages 2–6 and parents with interactive stories, voice play, magic doodle recognition, and parent insights.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
