@@ -1,8 +1,7 @@
 # 🌟 TinySteps AI — AI-Powered Early Childhood Learning Platform
 
-<p align="center">
-  <img src="public/screenshots/home.png" alt="TinySteps AI Hero Banner" width="100%" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
-</p>
+<img width="1600" height="626" alt="WhatsApp Image 2026-07-26 at 9 57 37 PM" src="https://github.com/user-attachments/assets/587841ae-74cf-46d5-a3e2-633409ec6374" />
+
 
 <p align="center">
   <strong>An Interactive, Distraction-Free, AI-Driven Educational Ecosystem Crafted for Toddlers and Preschoolers (Ages 2–6)</strong><br/>
@@ -30,7 +29,7 @@
 
 ## 📋 Academic Presentation Metadata
 
-> **Final AI Project Submission — Ship Your AI App Evaluation & Scholarship Consideration**
+> **Final AI Project Submission -**
 
 | **Academic Field** | **Official Detail** |
 | :--- | :--- |
@@ -304,9 +303,8 @@ CORE RESPONSIBILITIES:
 
 Parents access the dashboard by clicking the lock icon in the top header and solving a single-digit math puzzle (*"What is 4 + 3?"*), preventing toddlers from escaping child mode.
 
-<p align="center">
-  <img src="public/screenshots/parents.png" alt="Parent Dashboard Preview" width="85%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" />
-</p>
+<img width="720" height="1168" alt="Parent Security Area" src="https://github.com/user-attachments/assets/003addeb-bcf5-4c21-957a-e41a99997b66" />
+
 
 ### Key Dashboard Capabilities:
 - 📊 **Weekly Learning Analytics:** Interactive bar chart displaying daily minutes spent learning over the last 7 days.
@@ -421,60 +419,60 @@ TinySteps AI adheres to strict ergonomics tailored for toddlers:
 
 
 ### 🏠 1. Home Screen & Animated World
-![Home Screen](public/screenshots/home.png) <img width="713" height="1506" alt="Home Screen" src="https://github.com/user-attachments/assets/f2a15ef3-2ab1-4f03-a303-0da50757da9f" />
+<img width="713" height="1506" alt="Home Screen" src="https://github.com/user-attachments/assets/f2a15ef3-2ab1-4f03-a303-0da50757da9f" />
 
 *Featuring Tippy Owl mascot, animated sky with moving clouds, sun, balloons, rainbow, and daily missions.*
 
 ### 👋 2. Welcome Screen Overlay
-![Welcome Screen](public/screenshots/home.png<img width="720" height="1336" alt="Welcome Screen" src="https://github.com/user-attachments/assets/3e85970d-43a9-425c-986e-43025e7f0ac4" />
+<img width="720" height="1336" alt="Welcome Screen" src="https://github.com/user-attachments/assets/3e85970d-43a9-425c-986e-43025e7f0ac4" />
 
 
 *Ambient welcome overlay with audio greeting and rainbow arc.*
 
 ### 👶 3. Child Profile & Avatar Customization
-![Child Profile](public/screenshots/profile.png<img width="720" height="1067" alt="Child Profile" src="https://github.com/user-attachments/assets/fbb6fb09-9c24-42e6-baf0-ee75aa868d57" />
+<img width="720" height="1067" alt="Child Profile" src="https://github.com/user-attachments/assets/fbb6fb09-9c24-42e6-baf0-ee75aa868d57" />
 *Customization modal for avatar selection, child name, age group, and learning language.*
 
 ### 🗺️ 4. Magical Adventure Trail
-![Magical Adventure](public/screenshots/path.png<img width="720" height="1554" alt="Magical Adventure" src="https://github.com/user-attachments/assets/d81f10ff-a99d-4c7f-9539-388d83d03fba" />
+<img width="720" height="1554" alt="Magical Adventure" src="https://github.com/user-attachments/assets/d81f10ff-a99d-4c7f-9539-388d83d03fba" />
 *Sequential learning path through themed worlds with unlocking nodes and star badges.*
 
 ### 🔐 5. Parent Security Area & Math Gate
-![Parent Security Area](public/screenshots/parents.png)<img width="720" height="1168" alt="Parent Security Area" src="https://github.com/user-attachments/assets/1a1c3108-2e8e-4de8-9959-66c96cd9feba" />
+<img width="720" height="1168" alt="Parent Security Area" src="https://github.com/user-attachments/assets/1a1c3108-2e8e-4de8-9959-66c96cd9feba" />
 
 *Single-digit math PIN puzzle preventing toddlers from leaving child mode.*
 
 ### 👨‍👩‍👧 6. Parents Dashboard & Analytics
-![Parents Dashboard](public/screenshots/parents.png)<img width="720" height="1145" alt="Parents Dashboard" src="https://github.com/user-attachments/assets/9b28a71a-efeb-4bd5-a135-7e5cf91de4f5" />
+<img width="720" height="1145" alt="Parents Dashboard" src="https://github.com/user-attachments/assets/9b28a71a-efeb-4bd5-a135-7e5cf91de4f5" />
 
 *Weekly time charts, speech accuracy rates, mastered words bank, and AI summary.*
 
 ### 🎧 7. AI Voice Lab & Speech Practice
-![Listen & Speak](public/screenshots/speak.png)<img width="720" height="1448" alt="ai voice" src="https://github.com/user-attachments/assets/85138e19-a7e9-4390-a4a3-c49de1ead3b2" />
+<img width="720" height="1448" alt="ai voice" src="https://github.com/user-attachments/assets/85138e19-a7e9-4390-a4a3-c49de1ead3b2" />
 
 *Pronunciation practice module with speech recognition and normal/slow voice speed control.*
 
 ### 🎬 8. 3D Video Theater
-![Videos](public/screenshots/home.png)<img width="720" height="1406" alt="Videos" src="https://github.com/user-attachments/assets/8f722fe9-d8e4-4eac-b44b-4493dda0ba12" />
+<img width="720" height="1406" alt="Videos" src="https://github.com/user-attachments/assets/8f722fe9-d8e4-4eac-b44b-4493dda0ba12" />
 
 *Curated, distraction-free educational 3D video lessons.*
 
 ### 🤖 9. AI Bedtime Story Generator
-![AI Stories](public/screenshots/story.png<img width="720" height="1406" alt="AI Stories" src="https://github.com/user-attachments/assets/4df2bf0b-7c13-4ff6-9fa4-73da6cab29e3" />
+<img width="720" height="1406" alt="AI Stories" src="https://github.com/user-attachments/assets/4df2bf0b-7c13-4ff6-9fa4-73da6cab29e3" />
 *Custom story generator combining words learned during lessons into moral bedtime storybooks.*
 
 ### 📖 10. Interactive Story Reader
-![Stories Reader](public/screenshots/story.png)<img width="720" height="1367" alt="Stories" src="https://github.com/user-attachments/assets/5f459784-b7cc-4eb0-8b34-954e21396870" />
+<img width="720" height="1367" alt="Stories" src="https://github.com/user-attachments/assets/5f459784-b7cc-4eb0-8b34-954e21396870" />
 
 *Storybook reader with page navigation and sentence-by-sentence audio narration.*
 
 ### 🎨 11. Magic AI Drawing Canvas
-![Activities Canvas](public/screenshots/canvas.png)<img width="715" height="1410" alt="drawing" src="https://github.com/user-attachments/assets/870eef6b-322c-4278-b5fc-aa5f99b3197c" />
+<img width="715" height="1410" alt="drawing" src="https://github.com/user-attachments/assets/870eef6b-322c-4278-b5fc-aa5f99b3197c" />
 
 *HTML5 drawing canvas with vibrant color palettes, stroke sizes, and tracing overlays.*
 
 ### 🎁 12. Reward Shop & Treasure Chest
-![Rewards](public/screenshots/rewards.png)<img width="720" height="1525" alt="reward" src="https://github.com/user-attachments/assets/819c01b2-f10e-4ba6-93a0-215a46c96399" />
+<img width="720" height="1525" alt="reward" src="https://github.com/user-attachments/assets/819c01b2-f10e-4ba6-93a0-215a46c96399" />
 
 *Sticker reward shop and daily surprise treasure chest redemption.*
 
@@ -547,12 +545,11 @@ Follow these steps to run TinySteps AI locally:
 ### Prerequisites
 - **Node.js:** `v18.0.0` or higher installed
 - **npm:** `v9.0.0` or higher
-- **Gemini API Key:** Obtain a free API key from [Google AI Studio](https://aistudio.google.com/)
+- **Gemini API Key:** Obtain a free API key from [Google AI Studio] https://ai.studio/apps/92eb06f2-200f-47a9-97dd-b81729b6007c
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/Khadija-76/Kids-learning-app.git
-cd Kids-learning-app
+https://github.com/Khadija-76/Kids-learning-app/edit/main/README.md
 ```
 
 ### Step 2: Install Dependencies
@@ -560,19 +557,13 @@ cd Kids-learning-app
 npm install
 ```
 
-### Step 3: Configure Environment Variables
-Create a `.env` file in the root folder:
-```env
-GEMINI_API_KEY=your_actual_google_gemini_api_key_here
-```
-
-### Step 4: Launch Development Server
+### Step 3: Launch Development Server
 ```bash
 npm run dev
 ```
 Open `http://localhost:3000` in your web browser.
 
-### Step 5: Build Production Version
+### Step 4: Build Production Version
 ```bash
 npm run build
 ```
