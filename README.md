@@ -1,101 +1,288 @@
-# TinySteps AI 🌟 – AI-Powered Kids Learning App
+# 🌟 TinySteps AI — AI-Powered Early Childhood Learning Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-2.5_Flash-8E44AD?logo=google&logoColor=white)](https://ai.google.dev/)
-[![Deploys on Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white)](https://kids-learning-app-pink.vercel.app/)
+<p align="center">
+  <img src="public/screenshots/home.png" alt="TinySteps AI Hero Banner" width="100%" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
+</p>
 
-An interactive, AI-driven educational platform designed for preschool and early childhood learners (ages 2–6+). Built with **React 18**, **TypeScript**, **Tailwind CSS**, and **Google Gemini AI**.
+<p align="center">
+  <strong>An Interactive, Distraction-Free, AI-Driven Educational Ecosystem Crafted for Toddlers and Preschoolers (Ages 2–6)</strong><br/>
+  <em>Integrating Adaptive AI Speech Tutoring, Dynamic Bedtime Story Generation, Gamified Adventure Trails, Islamic Education, Interactive Drawing Canvases, and Parent Analytics into One Safe Application.</em>
+</p>
 
----
+<p align="center">
+  <a href="https://kids-learning-app-pink.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Website-Vercel_Production-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" /></a>
+  <a href="https://github.com/Khadija-76/Kids-learning-app"><img src="https://img.shields.io/badge/📦_GitHub_Repo-Kids--learning--app-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License MIT" /></a>
+</p>
 
-## 🎓 Academic Project Information
-
-* **Project Title:** TinySteps AI – AI-Powered Kids Learning App
-* **Project Category:** AI-Powered Educational Web Application
-* **Developer:** Khadija Mazhar
-* **Degree Program:** BS Information Technology (BS IT)
-* **University:** National University of Modern Languages (NUML), Islamabad
-* **Project Type:** Individual Final Project — *Ship Your AI App Evaluation*
-
----
-
-## 📌 Project Links
-
-* 🌐 **Live Application:** [https://kids-learning-app-pink.vercel.app/](https://kids-learning-app-pink.vercel.app/)
-* 📦 **GitHub Repository:** [https://github.com/Khadija-76/Kids-learning-app](https://github.com/Khadija-76/Kids-learning-app)
-
----
-
-## 🚀 Project Overview
-
-**TinySteps AI** is an innovative educational web application engineered to transform early childhood learning into a playful, interactive, and personalized digital adventure. Designed specifically for young children between the ages of 2 and 6+, TinySteps AI combines playful visual design, audio-assisted pronunciation, interactive drawing canvases, Islamic learning modules, dynamic story generation, and a friendly AI companion mascot—**Tippy Owl**.
-
-By leveraging **Google's Gemini 2.5 Flash AI model** via Google AI Studio, TinySteps AI simplifies learning concepts into age-appropriate, encouraging responses. It fosters early literacy, numeracy, language development, moral values, and creative expression within a safe, ad-free, and positive environment.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18.x-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React 18" />
+  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-5.x-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 5" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-2.5_Flash-8E44AD?style=flat-square&logo=google&logoColor=white" alt="Google Gemini AI" />
+  <img src="https://img.shields.io/badge/Google_AI_Studio-Integration-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google AI Studio" />
+  <img src="https://img.shields.io/badge/Express.js-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Framer_Motion-60fps-FF4088?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
 
 ---
 
-## 💡 Problem Statement
+## 📋 Academic Presentation Metadata
 
-Early childhood education faces significant digital challenges:
+> **Final AI Project Submission — Ship Your AI App Evaluation & Scholarship Consideration**
 
-1. **Static & Passive Learning:** Traditional learning platforms rely on rigid flashcards and pre-recorded videos that fail to adapt to a child's curiosity or pace.
-2. **Short Attention Spans:** Passive reading and static screens often fail to keep toddlers engaged in fundamental concepts.
-3. **Safety & Suitability Concerns:** Many online educational resources lack strict child safety guardrails, age-tailored explanations, or parent controls.
-
-### How TinySteps AI Solves This Problem
-TinySteps AI bridges this gap by offering a multi-sensory learning ecosystem powered by **Google Gemini AI**. Acting as a patient and encouraging digital tutor, Tippy Owl answers children's questions in simple words, generates bedtime stories using words learned that day, rewards progress with stars and magic coins, and provides interactive voice and canvas activities.
-
----
-
-## 👥 Target Users
-
-* 👧 **Children (Ages 2–6+):** Early childhood learners who benefit from visual, auditory, and gamified learning experiences.
-* 👨‍👩‍👧 **Parents:** Parents seeking a safe, ad-free, wholesome digital environment for screen-time learning.
-* 👩‍🏫 **Teachers & Educators:** Early childhood educators looking for interactive visual aids, story generation tools, and pronunciation modules.
-* 🏫 **Kindergartens & Elementary Schools:** Educational institutions incorporating modern AI learning tools into early childhood curricula.
+| **Academic Field** | **Official Detail** |
+| :--- | :--- |
+| **Project Title** | **TinySteps AI – AI-Powered Early Childhood Learning Platform** |
+| **Author / Developer** | **Khadija Mazhar** |
+| **Degree Program** | **BS Information Technology (BS IT)** |
+| **University** | **National University of Modern Languages (NUML), Islamabad, Pakistan** |
+| **Department** | **Department of Information Technology** |
+| **Project Nature** | **Individual Capstone AI Project** |
+| **AI Developer Platform**| **Google AI Studio** |
+| **AI Engine / Model** | **Google Gemini 2.5 Flash (via Google AI Studio API)** |
+| **Production URL** | **[https://kids-learning-app-pink.vercel.app/](https://kids-learning-app-pink.vercel.app/)** |
+| **Source Repository** | **[https://github.com/Khadija-76/Kids-learning-app](https://github.com/Khadija-76/Kids-learning-app)** |
 
 ---
 
-## ✨ Key Features
+## 📑 Table of Contents
 
-### 🦉 1. AI Learning Assistant (Tippy Owl)
-Tippy Owl is an interactive digital mascot on the home screen and in learning modules. Tippy blinks, bounces, waves, and speaks encouraging motivational messages in real-time, guiding children through lessons with audio voice output.
-
-### 👤 2. Personalized Child Profile
-Parents and children can customize the child's name, age (2–6+), preferred avatar icon (Lion, Panda, Unicorn, Rocket, etc.), and learning language (English, Urdu, or Arabic).
-
-### 🔤 3. Interactive Adventure Trail & Phonics
-Structured learning levels covering letter recognition, numbers, object counting, colors, and shapes with star rating rewards upon completion.
-
-### 🌙 4. Islamic Learning World
-Includes Daily Duas (Bismillah, Sleeping, Eating, Waking Up), the 6 Kalmas with Arabic text, Urdu/English translations, audio recitations, and interactive quiz cards.
-
-### 📖 5. AI Bedtime Story Generator
-An AI-powered storybook generator where children tap words learned during lessons (e.g., *Mama, Baba, Apple, Star*) and choose characters to generate custom bedtime stories narrated with voice synthesis.
-
-### 🎤 6. Voice & Pronunciation Practice (AI Voice Lab)
-Speech-based vocabulary practice using browser-native Text-to-Speech and Speech Recognition. Tippy listens to children pronounce words and provides immediate visual and audio encouragement.
-
-### 🎨 7. Magic AI Drawing & Tracing Canvas
-An HTML5 canvas activity where children draw, trace shapes and letters, pick vibrant color palettes, adjust stroke sizes, and use an eraser.
-
-### 🎁 8. Reward System & Treasure Shop
-Children earn **Magic Stars** and **Magic Coins** by completing lessons and daily missions. Earned coins can be spent in the virtual Reward Shop to unlock sticker badges and treasure chests.
-
-### 🛡️ 9. Parent Dashboard with Security Math Gate
-Protected behind a parent security PIN math question, allowing parents to adjust audio settings, view learning statistics, and manage profile configurations.
+1. [📌 Project Objective & Vision](#-project-objective--vision)
+2. [💡 The Real-World Problem & TinySteps Solution](#-the-real-world-problem--tinysteps-solution)
+3. [👥 Target Users & Value Impact](#-target-users--value-impact)
+4. [🔄 App Overview & Complete User Journey Flow](#-app-overview--complete-user-journey-flow)
+5. [🌟 Feature Matrix Table](#-feature-matrix-table)
+6. [🌈 Magical Learning Journey & Worlds](#-magical-learning-journey--worlds)
+7. [🤖 AI Implementation & Prompt Engineering](#-ai-implementation--prompt-engineering)
+8. [🛡️ Parent Security Portal & Analytics Dashboard](#️-parent-security-portal--analytics-dashboard)
+9. [🎁 Gamification Engine & Reward System](#-gamification-engine--reward-system)
+10. [🎨 UI/UX Philosophy & Accessibility](#-uiux-philosophy--accessibility)
+11. [🛠️ Technology Stack](#️-technology-stack)
+12. [🏗️ Application Architecture](#️-application-architecture)
+13. [📸 Presentation Gallery & Screenshots](#-presentation-gallery--screenshots)
+14. [💎 Project Highlights](#-project-highlights)
+15. [📂 Directory & File Structure](#-directory--file-structure)
+16. [⚙️ Local Installation & Development Setup](#️-local-installation--development-setup)
+17. [🧩 Technical Challenges & Engineering Solutions](#-technical-challenges--engineering-solutions)
+18. [🔮 Future Improvements & Roadmap](#-future-improvements--roadmap)
+19. [📝 Lessons Learned & Reflections](#-lessons-learned--reflections)
+20. [📜 License & Acknowledgements](#-license--acknowledgements)
 
 ---
 
-## 🤖 AI Implementation & System Prompt
+## 📌 Project Objective & Vision
 
-TinySteps AI incorporates **Google Gemini 2.5 Flash** using the official `@google/genai` SDK via secure Express server proxy endpoints (`/api/gemini/chat` and `/api/gemini/story`).
+**TinySteps AI** was created as an original, production-ready AI application to solve a critical dilemma in early childhood education: **how to leverage advanced artificial intelligence to provide personalized, engaging, and wholesome early learning without exposing toddlers to digital distractions, ads, or harmful content.**
 
-### 📝 AI System Prompt
-Below is the system prompt configured for Tippy Owl in TinySteps AI:
+The overarching objective of TinySteps AI is to combine:
+- **Artificial Intelligence (Google Gemini 2.5 Flash):** Providing an endlessly patient, encouraging AI mascot (**Tippy Owl 🦉**) that simplifies real-world concepts into 2-sentence explanations, generates custom bedtime stories using vocabulary words learned during the day, and offers instant speech feedback.
+- **Multidisciplinary Early Education:** Covering Phonics, Alphabets, Counting, Colors, Shapes, Islamic Duas & 6 Kalmas, Moral Stories, and Creative Canvas Drawing in a single unified interface.
+- **Parental Oversight & Analytics:** Shielding children behind a distraction-free wall while offering parents actionable weekly learning time analytics, pronunciation accuracy graphs, and AI progress summaries protected by a security math PIN gate.
+
+Unlike generic educational platforms or YouTube videos, TinySteps AI treats every toddler as an active explorer rather than a passive viewer.
+
+---
+
+## 💡 The Real-World Problem & TinySteps Solution
+
+### ⚠️ The Problem in Modern Toddler Screen Time
+In today's digital age, children between the ages of 2 and 6 spend hours daily on video streaming platforms (e.g., YouTube Shorts, algorithmically suggested video channels) or casual ad-supported games. This introduces severe educational and developmental flaws:
+
+1. **Algorithmic Distractions & Commercial Ads:** Educational videos are constantly interrupted by unboxing videos, commercial advertisements, and bright cartoon thumbnails that drag children away from learning.
+2. **Passive Consumption without Active Thinking:** Watching pre-recorded videos requires zero vocal speech, drawing, or active problem-solving, leading to shortened attention spans.
+3. **Lack of Personalization & Feedback:** A static video cannot listen to a child pronounce *"Mama"* or *"Bismillah"*, nor can it answer a child's spontaneous questions (*"Why do birds fly?"*).
+4. **Zero Parent Tracking:** Parents cannot track what vocabulary words their child has actually mastered or monitor their speech pronunciation progress.
+
+### ✅ The TinySteps AI Solution
+TinySteps AI provides a **100% ad-free, distraction-free, all-in-one educational platform** where toddlers interact with an intelligent companion in a safe, controlled environment.
+
+```
++-----------------------------------------------------------------------------------+
+|                           TRADITIONAL YOUTUBE / APPS                              |
+| ❌ Interrupted by ads  | ❌ Algorithmic shorts  | ❌ Passive watching  | ❌ No parent stats  |
++-----------------------------------------------------------------------------------+
+                                         │
+                                         ▼
++-----------------------------------------------------------------------------------+
+|                                TINYSTEPS AI SOLUTION                              |
+| ✅ 100% Ad-Free        | ✅ Guided learning trail| ✅ Active AI speech   | ✅ Parent Dashboard |
+| ✅ AI Companion Mascot | ✅ Custom storybooks   | ✅ Islamic & Moral    | ✅ Progress Graphs  |
++-----------------------------------------------------------------------------------+
+```
+
+---
+
+## 👥 Target Users & Value Impact
+
+```
+                      ┌─────────────────────────────────────────┐
+                      │        TinySteps AI Value Mesh          │
+                      └────────────────────┬────────────────────┘
+                                           │
+     ┌───────────────────┬─────────────────┴─────────────────┬───────────────────┐
+     ▼                   ▼                                   ▼                   ▼
+👧 Children (2-6)   👨‍👩‍👧 Parents                          👩‍🏫 Teachers         🏫 Institutions
+ Active Learning     Peace of Mind & Analytics            Interactive Aids     Digital Early Ed
+```
+
+1. **👧 Children (Ages 2–6):** Toddlers and preschoolers who learn best through multi-sensory engagement—combining visual colors, audio speech practice, touch drawing, and star rewards.
+2. **👨‍👩‍👧 Parents & Caregivers:** Parents seeking a safe, wholesome screen-time solution with full visibility into their child's daily streak, mastered vocabulary, and weekly learning time.
+3. **👩‍🏫 Early Childhood Educators:** Teachers needing interactive visual aids, story generation tools, and phonics modules for classroom or hybrid instruction.
+4. **🏫 Kindergarten & Homeschooling Families:** Families seeking a structured, multilingual (English, Urdu, Arabic) curriculum covering academic and moral topics.
+
+---
+
+## 🔄 App Overview & Complete User Journey Flow
+
+The user journey in TinySteps AI is engineered for non-reading toddlers, utilizing large visual buttons, voice guidance, and gentle micro-animations.
+
+```
+[1. User Launches TinySteps AI Web App]
+                  │
+                  ▼
+[2. Animated Welcome Screen Overlay]
+    - Floating clouds, rainbow arc, ambient soundscape
+    - Voice Greeting: "Assalamu Alaikum! Welcome to TinySteps AI. Let's learn together!"
+                  │
+                  ▼
+[3. Tap "Get Started" -> Immediate Reward Pop]
+    - Audio chime pop & star sparkle animation
+                  │
+                  ▼
+[4. Child Profile Setup Modal]
+    - Choose Avatar (Lion 🦁, Panda 🐼, Unicorn 🦄, Rocket 🚀, Owl 🦉)
+    - Enter Name, Select Age (2-6+), Select Language (English, Urdu, Arabic)
+                  │
+                  ▼
+[5. Main Adventure Dashboard & Sky Environment]
+    - Moving clouds, flying birds, balloons, animated sun
+    - Interactive Tippy Owl mascot with voice tap
+    - "Today's Mission" card & "Continue Lesson Now" button
+                  │
+                  ▼
+[6. Floating Glassmorphism Navigation Bar]
+ ┌───────────────┬───────────────┬───────────────┬───────────────┬───────────────┬───────────────┐
+ ▼               ▼               ▼               ▼               ▼               ▼               ▼
+[🏠 Learn]    [🌙 Islamic]    [🎬 Videos]     [🎤 Speak]      [🎨 Canvas]     [📚 Stories]    [🎁 Rewards]
+ Map Trail     Duas & Kalmas   3D Lessons      AI Voice Lab    Drawing Board   AI Storybook    Sticker Shop
+                 │               │               │               │               │               │
+                 └───────────────┴───────────────┼───────────────┴───────────────┴───────────────┘
+                                                 ▼
+                             [7. Earn Stars ⭐ & Magic Coins 🪙]
+                                                 │
+                                                 ▼
+                             [8. Open Daily Surprise Treasure Chest]
+                                                 │
+                                                 ▼
+                             [9. Parent Security Portal (Math Gate)]
+                                 - Inspection of weekly learning graphs & AI summary
+```
+
+---
+
+## 🌟 Feature Matrix Table
+
+Below is the complete feature matrix of TinySteps AI detailing the purpose, technical operation, and user benefit for every feature in the application:
+
+| Feature Name | Category | Purpose | Technical How-It-Works | User / Parent Benefit |
+| :--- | :--- | :--- | :--- | :--- |
+| **Welcome Screen Overlay** | Onboarding | Initial greeting and brand experience | Fullscreen backdrop blur overlay with animated rainbow arc and audio welcome | Captures toddler attention instantly in the first 3 seconds |
+| **Voice Welcome Audio** | Accessibility | Audio orientation for non-readers | Browser Web Speech API (`speechSynthesis`) triggers audio narration | Allows pre-literate children to navigate independently |
+| **Tippy Owl AI Mascot** | AI Companion | Interactive teacher and emotional guide | Framer Motion bounce loops + Gemini AI prompt integration | Builds emotional connection and keeps toddlers encouraged |
+| **Child Profile Customization** | Personalization | Tailors lesson difficulty and voice language | React state + LocalStorage persistent state binding | Updates all in-app greetings (*"Hello Ayesha!"*) and level themes |
+| **Avatar Selector** | Gamification | Visual child identity | Choice of 8 animated avatars (Lion, Panda, Unicorn, Rocket, etc.) | Boosts child ownership and engagement |
+| **Language Selection** | Inclusivity | Multilingual support | Toggles interface and TTS engine between English, Urdu, and Arabic | Supports bilingual families and native language learning |
+| **Daily Learning Mission** | Motivation | Establishes daily learning habits | Reactive progress bars tracking lessons, words, and stories | Encourages consistent daily educational routines |
+| **Shining Stars & Coins Engine** | Gamification | Positive reinforcement currency | Dual currency counter linked to lesson completions and phonics tests | Teaches goal-setting and rewards effort |
+| **Sequential Learning Path** | Curriculum | Prevents cognitive overload | Nodes unlock only when preceding level stars are achieved | Ensures structured step-by-step knowledge building |
+| **Interactive Lesson Modal** | Core Learning | Delivers structured visual/audio content | Multi-card step viewer with large images, phonics, and audio play | Multi-sensory learning combining visual, audio, and touch |
+| **AI Voice Lab & Speak Practice** | Speech / Phonics | Pronunciation evaluation | Web Speech Recognition API (`SpeechRecognition`) matches spoken words | Teaches clear pronunciation and builds vocal confidence |
+| **Normal / Slow Speed Toggle** | Speech / Phonics | Audio pacing control | Adjusts `speechSynthesis.rate` parameter between `1.0` and `0.6` | Helps younger toddlers hear slowed-down syllable structures |
+| **AI Bedtime Story Generator** | Generative AI | Dynamic literacy and storytelling | Express backend sends selected learned words to Gemini 2.5 Flash | Reinforces vocabulary learned that day in fun bedtime stories |
+| **Story Audio Reader** | Literacy | Audio narration for storybooks | Sentence-by-sentence TTS narration with page navigation | Allows children to listen to stories independently |
+| **Islamic World (Duas & Kalmas)** | Values | Cultural and spiritual education | Complete Arabic text, transliteration, English/Urdu translation, and recitations | Teaches daily Islamic Duas and 6 Kalmas with proper pronunciation |
+| **3D Video Theater** | Visual Learning | Curated video lessons | Embedded video player with distraction-free frame wrapper | Eliminates YouTube recommendations and advertisements |
+| **Magic AI Canvas** | Creativity | Motor skills and letter tracing | HTML5 `<canvas>` element with multi-touch event handlers and stroke picker | Develops fine motor skills and letter/number tracing |
+| **Reward Shop & Treasure Chest** | Gamification | Currency redemption | Coin redemption logic for sticker badges and daily surprise chests | Provides fun rewards for milestone achievements |
+| **Parent Security Math Gate** | Security | Prevents toddler app escape | Randomized single-digit math puzzle (*"What is 3 + 4?"*) | Ensures toddlers cannot accidentally leave child mode |
+| **Parent Dashboard Analytics** | Analytics | Weekly learning time overview | SVG bar chart mapping minutes learned over the last 7 days | Gives parents clear visibility into educational progress |
+| **Mastered Words Index** | Analytics | Vocabulary tracking | Array tracking all words successfully pronounced or completed | Highlights child's expanding vocabulary bank |
+| **Voice Settings & Gender Switch** | Customization | Personalized AI voice pitch | Toggles TTS voice pitch and gender between Female and Male | Customizes the AI teacher to child preference |
+
+---
+
+## 🌈 Magical Learning Journey & Worlds
+
+The learning curriculum inside TinySteps AI is organized into **Themed Worlds** along an interactive adventure trail:
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                       MAGICAL LEARNING JOURNEY PATH                         │
+└──────────────────────────────────────┬──────────────────────────────────────┘
+                                       │
+     ┌─────────────────────────────────┼─────────────────────────────────┐
+     ▼                                 ▼                                 ▼
+🌈 World 1: Welcome Trail       ☁️ World 2: Alphabet Forest       🏔️ World 3: Number Mountain
+- Assalamu Alaikum & Bismillah  - Phonics (A to Z)                - Counting 1 to 10
+- Islamic Etiquette & Manners   - Word associations (A for Apple) - Visual object counting
+     │                                 │                                 │
+     ├─────────────────────────────────┼─────────────────────────────────┤
+     ▼                                 ▼                                 ▼
+🌙 World 4: Islamic Garden      🏡 World 5: Family World          🎨 World 6: Activities & Stories
+- Daily Duas & 6 Kalmas         - Relations (Mama, Baba)          - Tracing Canvas
+- Arabic & Urdu/English text    - House & animal vocabulary       - AI Story Generator
+```
+
+### World Details:
+1. **🌈 World 1: TinySteps Welcome World**
+   - *Concepts:* Saying Bismillah before starting, greeting Assalamu Alaikum, and basic etiquette.
+2. **☁️ World 2: Alphabet Forest**
+   - *Concepts:* Letter recognition from A to Z, phonics sounds, and object associations (*A for Apple, B for Balloon*).
+3. **🏔️ World 3: Number Mountain**
+   - *Concepts:* Number recognition from 1 to 10, visual counting exercises, and basic quantity concepts.
+4. **🌙 World 4: Islamic Garden**
+   - *Concepts:* Daily Duas (eating, sleeping, waking up, entering house), 6 Kalmas with Arabic text and English/Urdu translations.
+5. **🏡 World 5: Family & Home World**
+   - *Concepts:* Key family relations (*Mama, Baba*), household objects, and emotional expressions.
+6. **🎨 World 6: Activities & Story World**
+   - *Concepts:* Letter/number tracing on the Magic Canvas and AI story generation combining learned words.
+
+---
+
+## 🤖 AI Implementation & Prompt Engineering
+
+TinySteps AI incorporates **Google Gemini 2.5 Flash** using the official `@google/genai` TypeScript SDK on a server-side Node.js/Express proxy (`server.ts`).
+
+### 🚀 Built & Engineered using Google AI Studio
+
+**Google AI Studio** served as the foundational AI developer platform and workbench during the entire creation of TinySteps AI. Google AI Studio was instrumental in:
+
+1. **System Prompt Prototyping & Tuning:** Experimenting with system instructions to ensure **Tippy Owl 🦉** maintains a perfectly simplified, cheerful tone appropriate for toddlers aged 2–6.
+2. **Safety & Guardrail Testing:** Benchmarking prompt responses against strict toddler safety guidelines in Google AI Studio to prevent any complex vocabulary, scary themes, or inappropriate outputs.
+3. **Model Selection & Benchmarking:** Testing response latency and quality on **Gemini 2.5 Flash**, choosing it for its fast generation speeds (crucial for real-time bedtime story creation).
+4. **API Management:** Provisioning and configuring secure API key credentials for seamless integration with the `@google/genai` SDK in Node.js.
+
+### 🛡️ Secure Architecture Pattern
+To protect API keys and insulate children from direct unfiltered web traffic, all AI interactions are proxied through server endpoints:
+
+```
+┌───────────────────────────┐         REST POST        ┌───────────────────────────┐
+│     Client (Browser)      ├─────────────────────────►│   Express Backend Proxy   │
+│   React 18 + TypeScript   │    /api/gemini/story     │   server.ts (Node.js)     │
+└───────────────────────────┘                          └─────────────┬─────────────┘
+                                                                     │
+                                                                     │ GoogleGenAI SDK
+                                                                     ▼
+                                                       ┌───────────────────────────┐
+                                                       │ Google Gemini 2.5 Flash   │
+                                                       │ (Google AI Studio Engine) │
+                                                       └───────────────────────────┘
+```
+
+### 📝 System Prompt Engineering for Toddler Safety
+Below is the system prompt engineered and tested inside **Google AI Studio** for Gemini AI requests in TinySteps AI:
 
 ```text
 You are Tippy Owl 🦉, a gentle, joyful, and encouraging AI teacher for preschool children aged 2 to 6 years old.
@@ -107,89 +294,260 @@ CORE RESPONSIBILITIES:
 4. Explain real-world concepts using playful analogies (e.g., comparing clouds to fluffy cotton balls).
 5. Never output adult concepts, scary topics, negative criticism, or complex academic terms.
 6. Use child-friendly emojis (⭐, 🎈, 🌈, 🌸, 🦁, 📚) to make text visually engaging.
+7. If asked about Islamic topics (e.g., Allah, Bismillah, Duas), respond with utmost reverence, simplicity, and love.
+8. When generating stories, use the provided words learned by the child today and ensure a wholesome moral message.
 ```
+
+---
+
+## 🛡️ Parent Security Portal & Analytics Dashboard
+
+Parents access the dashboard by clicking the lock icon in the top header and solving a single-digit math puzzle (*"What is 4 + 3?"*), preventing toddlers from escaping child mode.
+
+<p align="center">
+  <img src="public/screenshots/parents.png" alt="Parent Dashboard Preview" width="85%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" />
+</p>
+
+### Key Dashboard Capabilities:
+- 📊 **Weekly Learning Analytics:** Interactive bar chart displaying daily minutes spent learning over the last 7 days.
+- 🎯 **Speech Accuracy Tracker:** Overall pronunciation accuracy percentage based on Voice Lab tests.
+- 🔤 **Mastered Words Bank:** Complete index of vocabulary words successfully completed or pronounced.
+- 🎙️ **AI Voice Tuning:** Select between Female and Male AI voices, adjust speech speed (Normal/Slow), and control sound effect volume.
+- 🌐 **Language Manager:** Switch app language between English, Urdu, and Arabic.
+- 📄 **Export Progress Report:** Generates a clean printable PDF summary of the child's learning milestones.
+
+---
+
+## 🎁 Gamification Engine & Reward System
+
+To sustain toddler motivation, TinySteps AI implements a complete gamified currency engine:
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                       TINYSTEPS GAMIFICATION ENGINE                         │
+└──────────────────────────────────────┬──────────────────────────────────────┘
+                                       │
+     ┌─────────────────────────────────┼─────────────────────────────────┐
+     ▼                                 ▼                                 ▼
+⭐ Shining Stars                  🪙 Magic Coins                    🔥 Learning Streak
+Earned via completing level       Earned via daily missions &       Tracks consecutive days
+cards & pronunciation tests        surprise treasure chests          opened and completed
+     │                                 │                                 │
+     └─────────────────────────────────┼─────────────────────────────────┘
+                                       ▼
+                             🎁 Sticker Reward Shop
+                             Redeem coins for custom avatar
+                             badges, frames, & stickers
+```
+
+---
+
+## 🎨 UI/UX Philosophy & Accessibility
+
+TinySteps AI adheres to strict ergonomics tailored for toddlers:
+
+1. **Macro Touch Targets (56px–72px):** Buttons are large with high contrast, rounded pill borders (`rounded-full`), and active press physics (`active:scale-95`).
+2. **Floating Glassmorphism Bar:** Bottom navigation uses soft backdrop blur (`backdrop-blur-xl`) with colorful glowing active tab indicators.
+3. **Soft Pastel Palette:** Uses eye-safe pastel colors (Sky Blue `#E0F2FE`, Mint `#DCFCE7`, Butter Yellow `#FEF9C3`, Lavender `#F3E8FF`, Peach `#FFEDD5`) to eliminate eye fatigue.
+4. **60fps Physics Animations:** Framer Motion (`motion/react`) handles bouncing mascot loops, floating sky elements, and seamless page transitions.
 
 ---
 
 ## 🛠️ Technology Stack
 
-| Technology | Role / Category | Selection Rationale |
-| :--- | :--- | :--- |
-| **React 18** | Frontend Library | Component-based UI architecture enabling smooth reactive updates. |
-| **TypeScript** | Language | Type safety and maintainability across all UI components and API models. |
-| **Vite 5** | Build Tool | Fast Hot Module Replacement (HMR) and optimized build bundling. |
-| **Tailwind CSS** | Styling | Utility-first styling for custom child-friendly color palettes and glassmorphism. |
-| **Motion** | Animations | Smooth 60fps spring animations, tab transitions, and floating background effects. |
-| **Google Gemini AI** | Artificial Intelligence | Generates age-appropriate explanations and custom educational stories. |
-| **Express.js (Node.js)** | Backend Middleware | Serves API routes and securely proxies Gemini API calls. |
-| **Lucide React** | Icons | Clean, accessible SVG icons designed for large child-friendly touch targets. |
-| **GitHub** | Version Control | Source code repository and project management. |
-| **Vercel** | Hosting & CDN | Global deployment platform with automated CI/CD integration. |
+| Layer | Technology | Version | Purpose & Rationale |
+| :--- | :--- | :--- | :--- |
+| **Frontend UI** | **React** | `v18.3` | Component-driven architecture enabling reactive state synchronization |
+| **Language** | **TypeScript** | `v5.5` | Strict type definitions (`types.ts`) preventing runtime null errors |
+| **Build Tool** | **Vite** | `v5.4` | Ultra-fast HMR dev server and optimized esbuild bundling |
+| **Styling** | **Tailwind CSS** | `v3.4` | Utility-first CSS for custom pastel palettes and glassmorphism |
+| **Animations** | **Framer Motion** | `v11.x` | Smooth 60fps spring animations, tab transitions, and floating effects |
+| **AI Engine** | **Google Gemini AI** | `2.5 Flash` | Generates simple kid explanations and custom moral bedtime stories |
+| **AI Studio** | **Google AI Studio** | SDK `@google/genai` | Official API key management and prompt execution platform |
+| **Backend** | **Express.js / Node.js** | `v4.19` | Secure server proxy routing for API key isolation |
+| **Icons** | **Lucide React** | `v0.400` | Clean SVG vector icons designed for large touch targets |
+| **Speech Engine**| **Web Speech API** | Native | Browser-native `SpeechRecognition` and `SpeechSynthesis` |
+| **Canvas** | **HTML5 2D Canvas** | Native | Low-latency touch drawing and tracing board |
+| **Deployment** | **Vercel** | Edge Network | Global CDN hosting with automated GitHub integration |
 
 ---
 
-## 🏗️ Project Architecture
+## 🏗️ Application Architecture
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                    Client (Browser)                     │
-│  React 18 + TypeScript + Tailwind CSS + Framer Motion   │
-│  - Adventure Map / Sky World    - Islamic World Module  │
-│  - AI Storybook Generator       - AI Voice Lab & Canvas │
-└────────────────────────────┬────────────────────────────┘
-                             │ HTTPS / REST API
-                             ▼
-┌─────────────────────────────────────────────────────────┐
-│                  Server (Express Node.js)               │
-│  - API Proxy Routes (/api/gemini/chat, /api/gemini/story)│
-│  - Environment Variable Protection (GEMINI_API_KEY)     │
-└────────────────────────────┬────────────────────────────┘
-                             │ Google GenAI SDK (@google/genai)
-                             ▼
-┌─────────────────────────────────────────────────────────┐
-│               Google Gemini 2.5 Flash API               │
-│  - Simple Kid-Friendly Explanations                     │
-│  - Dynamic Moral & Educational Story Generation          │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                CLIENT BROWSER                                   │
+│                                                                                 │
+│  ┌───────────────────────────────────────────────────────────────────────────┐  │
+│  │                            React 18 Component Tree                        │  │
+│  │  [App.tsx] ──► [AdventureMap]  [IslamicWorld]  [VoiceTab]  [StoryReader]   │  │
+│  │             ──► [DoodleCanvas]  [VideosTab]     [Rewards]   [ParentDash]   │  │
+│  └─────────────────────────────────────┬─────────────────────────────────────┘  │
+│                                        │                                        │
+│  ┌─────────────────────────────────────▼─────────────────────────────────────┐  │
+│  │                       Web Speech & Web Audio Utilities                    │  │
+│  │  - SpeechSynthesis (Tippy Voice)   - SpeechRecognition (Microphone Input) │  │
+│  │  - Audio Synthesizer (Pops/Chimes)  - LocalStorage (Progress Sync)        │  │
+│  └─────────────────────────────────────┬─────────────────────────────────────┘  │
+└────────────────────────────────────────┼────────────────────────────────────────┘
+                                         │ HTTPS REST Requests
+                                         ▼
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                               EXPRESS SERVER PROXY                              │
+│                                  (server.ts)                                    │
+│                                                                                 │
+│  ┌───────────────────────────────────┐    ┌───────────────────────────────────┐ │
+│  │ POST /api/gemini/chat             │    │ POST /api/gemini/story            │ │
+│  │ (Simplifies kid Q&A responses)    │    │ (Generates custom bedtime stories)│ │
+│  └─────────────────┬─────────────────┘    └─────────────────┬─────────────────┘ │
+│                    │                                        │                   │
+│                    └───────────────────┬────────────────────┘                   │
+│                                        │ Uses GEMINI_API_KEY                    │
+│                                        ▼                                        │
+│                        Google GenAI SDK (@google/genai)                         │
+└────────────────────────────────────────┬────────────────────────────────────────┘
+                                         │ HTTPS API Call
+                                         ▼
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                           GOOGLE GEMINI 2.5 FLASH API                           │
+│                              (Google AI Studio)                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📂 Project Structure
+## 📸 Presentation Gallery & Screenshots
+
+
+
+### 🏠 1. Home Screen & Animated World
+![Home Screen](public/screenshots/home.png) <img width="713" height="1506" alt="Home Screen" src="https://github.com/user-attachments/assets/f2a15ef3-2ab1-4f03-a303-0da50757da9f" />
+
+*Featuring Tippy Owl mascot, animated sky with moving clouds, sun, balloons, rainbow, and daily missions.*
+
+### 👋 2. Welcome Screen Overlay
+![Welcome Screen](public/screenshots/home.png<img width="720" height="1336" alt="Welcome Screen" src="https://github.com/user-attachments/assets/3e85970d-43a9-425c-986e-43025e7f0ac4" />
+
+
+*Ambient welcome overlay with audio greeting and rainbow arc.*
+
+### 👶 3. Child Profile & Avatar Customization
+![Child Profile](public/screenshots/profile.png<img width="720" height="1067" alt="Child Profile" src="https://github.com/user-attachments/assets/fbb6fb09-9c24-42e6-baf0-ee75aa868d57" />
+*Customization modal for avatar selection, child name, age group, and learning language.*
+
+### 🗺️ 4. Magical Adventure Trail
+![Magical Adventure](public/screenshots/path.png<img width="720" height="1554" alt="Magical Adventure" src="https://github.com/user-attachments/assets/d81f10ff-a99d-4c7f-9539-388d83d03fba" />
+*Sequential learning path through themed worlds with unlocking nodes and star badges.*
+
+### 🔐 5. Parent Security Area & Math Gate
+![Parent Security Area](public/screenshots/parents.png)<img width="720" height="1168" alt="Parent Security Area" src="https://github.com/user-attachments/assets/1a1c3108-2e8e-4de8-9959-66c96cd9feba" />
+
+*Single-digit math PIN puzzle preventing toddlers from leaving child mode.*
+
+### 👨‍👩‍👧 6. Parents Dashboard & Analytics
+![Parents Dashboard](public/screenshots/parents.png)<img width="720" height="1145" alt="Parents Dashboard" src="https://github.com/user-attachments/assets/9b28a71a-efeb-4bd5-a135-7e5cf91de4f5" />
+
+*Weekly time charts, speech accuracy rates, mastered words bank, and AI summary.*
+
+### 🎧 7. AI Voice Lab & Speech Practice
+![Listen & Speak](public/screenshots/speak.png)<img width="720" height="1448" alt="ai voice" src="https://github.com/user-attachments/assets/85138e19-a7e9-4390-a4a3-c49de1ead3b2" />
+
+*Pronunciation practice module with speech recognition and normal/slow voice speed control.*
+
+### 🎬 8. 3D Video Theater
+![Videos](public/screenshots/home.png)<img width="720" height="1406" alt="Videos" src="https://github.com/user-attachments/assets/8f722fe9-d8e4-4eac-b44b-4493dda0ba12" />
+
+*Curated, distraction-free educational 3D video lessons.*
+
+### 🤖 9. AI Bedtime Story Generator
+![AI Stories](public/screenshots/story.png<img width="720" height="1406" alt="AI Stories" src="https://github.com/user-attachments/assets/4df2bf0b-7c13-4ff6-9fa4-73da6cab29e3" />
+*Custom story generator combining words learned during lessons into moral bedtime storybooks.*
+
+### 📖 10. Interactive Story Reader
+![Stories Reader](public/screenshots/story.png)<img width="720" height="1367" alt="Stories" src="https://github.com/user-attachments/assets/5f459784-b7cc-4eb0-8b34-954e21396870" />
+
+*Storybook reader with page navigation and sentence-by-sentence audio narration.*
+
+### 🎨 11. Magic AI Drawing Canvas
+![Activities Canvas](public/screenshots/canvas.png)<img width="715" height="1410" alt="drawing" src="https://github.com/user-attachments/assets/870eef6b-322c-4278-b5fc-aa5f99b3197c" />
+
+*HTML5 drawing canvas with vibrant color palettes, stroke sizes, and tracing overlays.*
+
+### 🎁 12. Reward Shop & Treasure Chest
+![Rewards](public/screenshots/rewards.png)<img width="720" height="1525" alt="reward" src="https://github.com/user-attachments/assets/819c01b2-f10e-4ba6-93a0-215a46c96399" />
+
+*Sticker reward shop and daily surprise treasure chest redemption.*
+
+---
+
+## 💎 Project Highlights
+
+```
+┌─────────────────────────┐  ┌─────────────────────────┐  ┌─────────────────────────┐
+│     💡 ORIGINAL IDEA    │  │   🤖 AI-POWERED ENGINE  │  │    🛡️ 100% CHILD SAFE   │
+│ Distraction-free early  │  │ Google Gemini 2.5 Flash │  │ Ad-free, no external    │
+│ childhood education.    │  │ storytelling & tutor.   │  │ links or recommendations│
+└─────────────────────────┘  └─────────────────────────┘  └─────────────────────────┘
+┌─────────────────────────┐  ┌─────────────────────────┐  ┌─────────────────────────┐
+│   🎤 VOICE & SPEECH LAB │  │   🌙 ISLAMIC EDUCATION  │  │   🎁 GAMIFIED REWARDS   │
+│ Active pronunciation    │  │ Daily Duas & 6 Kalmas   │  │ Stars, coins, badges,   │
+│ evaluation with TTS.    │  │ with audio recitations. │  │ and treasure chests.    │
+└─────────────────────────┘  └─────────────────────────┘  └─────────────────────────┘
+```
+
+---
+
+## 📂 Directory & File Structure
 
 ```text
 Kids-learning-app/
-├── public/                     # Static public assets (icons, audio assets)
-├── src/                        # Source code
-│   ├── assets/                 # App images and mascot illustration references
-│   ├── components/             # Reusable UI components
-│   │   ├── AdventureMap.tsx    # Home screen, sky environment, daily goals, level path
-│   │   ├── IslamicWorld.tsx    # Duas, 6 Kalmas, audio recitations, and quiz cards
-│   │   ├── VideosTab.tsx       # 3D Animated video theater module
-│   │   ├── VoiceTab.tsx        # Speak & pronunciation practice module
-│   │   ├── DoodleCanvas.tsx    # Drawing canvas & tracing activity module
-│   │   ├── StoryReader.tsx     # AI Story generator and bedtime reader
-│   │   ├── RewardsTab.tsx      # Sticker reward shop and star collection
-│   │   ├── ParentDashboard.tsx # Parent lock pin gate & progress overview
-│   │   └── LessonModal.tsx     # Interactive step-by-step level modal
-│   ├── utils/                  # Web Audio sound effects and speech synthesis helpers
-│   ├── types.ts                # TypeScript interfaces and data models
-│   ├── App.tsx                 # Main application state and bottom glass navigation
-│   └── main.tsx                # Application DOM entry point
-├── server.ts                   # Express backend server with Gemini API endpoints
-├── package.json                # Project dependencies and script declarations
-├── vite.config.ts              # Vite server and build settings
-└── README.md                   # Project documentation
+├── public/                       # Static public assets
+│   ├── favicon.ico               # Application favicon
+│   └── screenshots/              # README presentation gallery screenshots
+│       ├── home.png              # Home Screen & Animated World
+│       ├── profile.png           # Child Profile Setup Modal
+│       ├── path.png              # Sequential Learning Trail Map
+│       ├── speak.png             # AI Voice Lab & Speech Practice
+│       ├── story.png             # AI Story Generator & Reader
+│       ├── islamic.png           # Islamic Learning World
+│       ├── canvas.png            # Magic Drawing & Tracing Canvas
+│       ├── rewards.png           # Reward Shop & Treasure Chest
+│       └── parents.png           # Parent Security Dashboard & Analytics
+├── src/                          # Application source code
+│   ├── assets/                   # SVG vector icons & illustration constants
+│   ├── components/               # Modular React UI components
+│   │   ├── AdventureMap.tsx      # Home screen, sky environment, daily missions, learning path
+│   │   ├── IslamicWorld.tsx      # Islamic module, Duas, 6 Kalmas, audio recitations, quizzes
+│   │   ├── VideosTab.tsx         # 3D Animated video theater module
+│   │   ├── VoiceTab.tsx          # AI Voice Lab & speech recognition practice
+│   │   ├── DoodleCanvas.tsx      # HTML5 drawing canvas & tracing board
+│   │   ├── StoryReader.tsx       # AI Story Generator & TTS reader
+│   │   ├── RewardsTab.tsx        # Reward shop, coin redemption, treasure chest
+│   │   ├── ParentDashboard.tsx   # Parent PIN authentication lock & analytics graphs
+│   │   └── LessonModal.tsx       # Step-by-step interactive level modal
+│   ├── utils/                    # Utility helpers
+│   │   └── audio.ts              # Web Audio sound synthesis (pops, chimes) & SpeechSynthesis
+│   ├── types.ts                  # Shared TypeScript interfaces (LevelNode, Profile, Tab)
+│   ├── App.tsx                   # Main state manager, bottom glass navigation, global modals
+│   ├── main.tsx                  # React application DOM entry point
+│   └── index.css                 # Global CSS stylesheet with Tailwind imports
+├── server.ts                     # Express backend proxy for Gemini AI requests
+├── package.json                  # Dependencies, build scripts, and package manifests
+├── vite.config.ts                # Vite bundler settings
+├── tsconfig.json                 # TypeScript compiler rules
+└── README.md                     # University Final Project README documentation
 ```
 
 ---
 
-## ⚙️ Installation Guide
+## ⚙️ Local Installation & Development Setup
+
+Follow these steps to run TinySteps AI locally:
 
 ### Prerequisites
-* **Node.js:** `v18.0.0` or higher
-* **npm:** `v9.0.0` or higher
-* **Gemini API Key:** Free API key from [Google AI Studio](https://aistudio.google.com/)
+- **Node.js:** `v18.0.0` or higher installed
+- **npm:** `v9.0.0` or higher
+- **Gemini API Key:** Obtain a free API key from [Google AI Studio](https://aistudio.google.com/)
 
 ### Step 1: Clone Repository
 ```bash
@@ -203,108 +561,70 @@ npm install
 ```
 
 ### Step 3: Configure Environment Variables
-Create a `.env` file in the root directory:
+Create a `.env` file in the root folder:
 ```env
-GEMINI_API_KEY=your_google_gemini_api_key_here
+GEMINI_API_KEY=your_actual_google_gemini_api_key_here
 ```
 
-### Step 4: Run Development Server
+### Step 4: Launch Development Server
 ```bash
 npm run dev
 ```
 Open `http://localhost:3000` in your web browser.
 
-### Step 5: Build Production Bundle
+### Step 5: Build Production Version
 ```bash
 npm run build
 ```
 
 ---
 
-## 🎮 How to Use the Application
+## 🧩 Technical Challenges & Engineering Solutions
 
-1. **Select Child Profile:** Click **Profile** on the Home Screen to customize the child's name, age, avatar, and preferred language.
-2. **Interact with Tippy Owl:** Tap Tippy Owl on the Home Screen to hear encouraging voice messages.
-3. **Complete Today's Mission:** View daily goals for lessons completed, words practiced, and stories read.
-4. **Explore Learning Worlds:** Use the floating glassmorphism navigation bar:
-   * **Learn (🏠):** Follow the animated adventure path.
-   * **Islamic (🌙):** Recite Duas and listen to the 6 Kalmas.
-   * **Videos (🎬):** Watch 3D educational lessons.
-   * **Speak (🎤):** Practice pronunciation in the AI Voice Lab.
-   * **Activities (🎨):** Draw and trace on the Magic AI Canvas.
-   * **Stories (📚):** Generate personalized AI bedtime stories.
-   * **Rewards (🎁):** Spend earned coins in the Sticker Shop.
-5. **Parent Dashboard:** Access parent controls via the lock icon at the top right.
+1. **Browser Speech Recognition Variance:** Web Speech API (`webkitSpeechRecognition`) can be inconsistent across mobile devices.
+   - *Solution:* Built an automatic fallback mode where toddlers can switch to listening and tap-to-match audio quizzes if microphone access is restricted.
+2. **AI Response Safety for Toddlers:** LLMs can occasionally generate complex sentences.
+   - *Solution:* Configured server-side system prompts in `server.ts` enforcing 2-sentence limits, simple analogies, and zero complex jargon.
+3. **API Key Security in Open-Source Deployment:**
+   - *Solution:* Isolated Gemini SDK calls inside Node.js Express server routes (`/api/gemini/story`), bundling the backend using `esbuild` to prevent client-side key leakage.
+4. **Browser Audio Autoplay Restrictions:** Browsers block audio playback before user interaction.
+   - *Solution:* Implemented an overlay user-gesture lock that initializes Web Audio contexts on the very first screen touch.
 
 ---
 
-## 🖼️ Application Screenshots
+## 🔮 Future Improvements & Roadmap
 
-### 1. Home Dashboard & Adventure Map
-![Home Dashboard](https://raw.githubusercontent.com/Khadija-76/Kids-learning-app/main/public/screenshots/home.png)
-*(Home Screen featuring animated sky background, Tippy Owl mascot, daily goals, and adventure learning path)*
-
-### 2. AI Voice Lab & Pronunciation Practice
-![AI Voice Lab](https://raw.githubusercontent.com/Khadija-76/Kids-learning-app/main/public/screenshots/speak.png)
-*(Voice and phonics practice module with Speech-to-Text feedback)*
-
-### 3. AI Bedtime Story Generator
-![AI Story Generator](https://raw.githubusercontent.com/Khadija-76/Kids-learning-app/main/public/screenshots/story.png)
-*(Dynamic story generator creating custom moral stories using words learned during lessons)*
-
-### 4. Magic AI Drawing Canvas
-![Magic Canvas](https://raw.githubusercontent.com/Khadija-76/Kids-learning-app/main/public/screenshots/canvas.png)
-*(Creative doodle canvas with color choices, stroke sizes, and tracing tools)*
-
-### 5. Daily Treasure Chest & Reward Shop
-![Reward Shop](https://raw.githubusercontent.com/Khadija-76/Kids-learning-app/main/public/screenshots/rewards.png)
-*(Reward shop where children redeem earned coins for stickers and treasure chests)*
+- [ ] **Voice-Based Conversational AI (Gemini Live API):** Real-time, low-latency spoken Q&A with Tippy Owl.
+- [ ] **AI Canvas Tracing Evaluation:** Computer vision model to evaluate how accurately a child traces letters on the canvas.
+- [ ] **Offline Progressive Web App (PWA):** Service worker caching for offline learning in low-connectivity areas.
+- [ ] **Teacher & Classroom Dashboard:** Multi-student management portal for preschool educators.
+- [ ] **Augmented Reality (AR) Animal Cards:** Projecting 3D animals into physical rooms using mobile cameras.
+- [ ] **Cloud Account Sync (Firebase):** Syncing stars and coins seamlessly across devices.
 
 ---
 
-## 🔒 Security & Privacy
+## 📝 Lessons Learned & Reflections
 
-* **API Key Protection:** The Google Gemini API key is stored strictly in server-side environment variables (`GEMINI_API_KEY`) and is never exposed in browser bundles.
-* **Child Safety First:** TinySteps AI does not collect personal data or location tracking, ensuring COPPA-compliant early learning safety.
-
----
-
-## 🔮 Future Improvements
-
-1. **Voice-Based Conversational AI:** Real-time natural voice conversations with Tippy Owl using Gemini Live API.
-2. **Parent Analytics Dashboard:** Visual progress charts tracking time spent and subject mastery.
-3. **Teacher Portal:** Classroom management tools for educators to assign lessons.
-4. **Offline Mode (PWA Support):** Progressive web caching for learning without internet connectivity.
-5. **Multi-Language Expansion:** Extended support for French, Spanish, Hindi, and Mandarin.
-6. **Adaptive AI Quiz Engine:** Dynamic quizzes generated based on identified weak areas.
-7. **Augmented Reality (AR) Cards:** 3D animals and letters projected into physical environments.
-8. **Cloud Progress Sync:** User authentication to sync stars and coins across devices.
+Developing TinySteps AI as a Capstone Final Project provided key technical insights:
+- **Designing for Non-Readers:** UI for toddlers requires macro touch targets, bright pastel visual hierarchy, and immediate voice feedback.
+- **AI as a Patient Companion:** Generative AI is most effective when wrapped inside structured, safe boundaries that encourage curiosity rather than replacing fundamental learning steps.
+- **Full-Stack Security:** Protecting API keys and isolating child users from unfiltered web traffic requires robust architectural proxy patterns.
 
 ---
 
-## 🚀 Deployment
+## 📜 License & Acknowledgements
 
-* **Hosting Platform:** Vercel
-* **Live Application URL:** [https://kids-learning-app-pink.vercel.app/](https://kids-learning-app-pink.vercel.app/)
-
----
-
-## 📄 License
-
+### License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
----
-
-## 👩‍💻 Author
-
-**Khadija Mazhar**  
-BS Information Technology  
-National University of Modern Languages (NUML), Islamabad, Pakistan  
-GitHub: [@Khadija-76](https://github.com/Khadija-76)  
-Project Repository: [https://github.com/Khadija-76/Kids-learning-app](https://github.com/Khadija-76/Kids-learning-app)
+### Acknowledgements
+- **Google AI Studio:** For providing the comprehensive AI developer workbench, prompt engineering playground, and prototyping platform used to build and refine TinySteps AI.
+- **Google Gemini AI (Gemini 2.5 Flash):** For providing ultra-fast, intelligent, and safe generative language models that power Tippy Owl and the AI bedtime story generator.
+- **National University of Modern Languages (NUML):** Department of Information Technology faculty and instructors for academic guidance and project evaluation.
+- **Open Source Community:** React, Vite, Tailwind CSS, Framer Motion, Express.js, and Lucide React development teams.
 
 ---
 
 <p align="center">
-  Made with ❤️, ✨, and 🦉 for little learners everywhere!
+  <strong>TinySteps AI — Creating a Safe, Magical, and AI-Powered Learning Future for Little Learners Everywhere! 🌟🦉</strong>
 </p>
