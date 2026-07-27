@@ -67,7 +67,7 @@
 17. [🧩 Technical Challenges & Engineering Solutions](#-technical-challenges--engineering-solutions)
 18. [🔮 Future Improvements & Roadmap](#-future-improvements--roadmap)
 19. [📝 Lessons Learned & Reflections](#-lessons-learned--reflections)
-20. [📜 License & Acknowledgements](#-license--acknowledgements)
+20. [📜 Acknowledgements](#-license--acknowledgements)
 
 ---
 
@@ -603,10 +603,7 @@ Developing TinySteps AI as a Capstone Final Project provided key technical insig
 
 ---
 
-## 📜 License & Acknowledgements
-
-### License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+## 📜Acknowledgements
 
 ### Acknowledgements
 - **Google AI Studio:** For providing the comprehensive AI developer workbench, prompt engineering playground, and prototyping platform used to build and refine TinySteps AI.
